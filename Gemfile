@@ -65,4 +65,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # CUSTOM
 gem 'bootstrap-sass', '~> 3.3.7'
 gem 'jquery-rails'
+gem 'jquery'
 gem 'react-rails', '~> 1.0'
